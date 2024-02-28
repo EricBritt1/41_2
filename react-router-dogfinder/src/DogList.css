@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 20px;
+    border: 20px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+};
+
